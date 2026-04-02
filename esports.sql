@@ -1,6 +1,5 @@
 -- ============================================================
 -- E-SPORTS LEAGUE DATABASE - CORRECTED VERSION
--- Version: 2.0.1 (Security Fixed)
 -- Description: Complete database schema for E-Sports League
 -- Author: E-Sports Development Team
 -- Created: 2025
